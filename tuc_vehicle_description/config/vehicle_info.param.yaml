@@ -8,5 +8,5 @@
     rear_overhang: 0.91196 # between rear wheel center and vehicle rear
     left_overhang: 0.257925 # between left wheel center and vehicle left
     right_overhang: 0.257925 # between right wheel center and vehicle right
-    vehicle_height: 1.93787 # it is 2.25509 with RTB,here is without RTB
+    vehicle_height: 2.25509 # 2.25509 with RTB,1.93787 without RTB
     max_steer_angle: 0.698 # [rad] usually between 0.6109 and 0.6981 (35deg and 40deg)
